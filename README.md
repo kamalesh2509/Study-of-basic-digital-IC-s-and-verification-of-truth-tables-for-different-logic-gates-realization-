@@ -83,7 +83,7 @@ Output:
 ![227829154-51b9185c-ea09-4682-974a-66ebbcb19f69](https://github.com/kamalesh2509/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120444689/13c8169e-a5c7-4aa9-a324-5be847906116)
 
 
-\\RTL realization
+//RTL realization
 ![227829276-31280114-fce4-49fb-9dc4-e56b43c65baf](https://github.com/kamalesh2509/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/120444689/d1bd13d0-d634-4d60-8d58-180210aeae6d)
 
 \\TIMING DIAGRAM
